@@ -1,0 +1,23 @@
+{
+  "name": "curso-de-array-con",
+  "version": "1.0.0",
+  "description": "curso manejos de arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marualexa/curso-de-array-con-js.git"
+  },
+  "author": "Mariana Contreras",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Marualexa/curso-de-array-con-js/issues"
+  },
+  "homepage": "https://github.com/Marualexa/curso-de-array-con-js#readme",
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "http-server": "^14.1.1"
+  }
+}
